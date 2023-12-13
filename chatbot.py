@@ -1,0 +1,7 @@
+import datetime
+import nltk
+from nltk.chat.util import Chat, reflections
+
+pairs = [
+    ["Hi", ["Hello", "Hey there!"]],
+]
