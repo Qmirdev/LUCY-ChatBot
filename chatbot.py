@@ -1,12 +1,11 @@
 import datetime
 import nltk
 from nltk.chat.util import Chat, reflections
+import pairs
 
-pairs = [
-    ["Hi", ["Hello", "Hey there!"]],
-]
+# pairs.py
 
-chat = Chat(pairs, reflections)
+chat = Chat(pairs.pairs, reflections)
 
 def log_conversation(user_input, bot_response):
   timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
