@@ -1,0 +1,174 @@
+2023-12-14 02:56:48 User: hi
+2023-12-14 02:56:48 Bot: Hello
+2023-12-14 02:56:51 User: how are yo
+2023-12-14 02:56:51 Bot: None
+2023-12-14 02:56:55 User: how are you
+2023-12-14 02:56:55 Bot: None
+2023-12-14 02:56:58 User: you good?
+2023-12-14 02:56:58 Bot: None
+2023-12-14 02:57:02 User: who are you?
+2023-12-14 02:57:02 Bot: None
+2023-12-14 02:57:05 User: bye
+2023-12-14 02:57:05 Bot: None
+2023-12-14 02:59:44 User: hi
+2023-12-14 02:59:44 Bot: Hey there!
+2023-12-14 02:59:45 User: hi
+2023-12-14 02:59:45 Bot: Hello
+2023-12-14 02:59:46 User: hi
+2023-12-14 02:59:46 Bot: Hey there!
+2023-12-14 02:59:46 User: hi
+2023-12-14 02:59:46 Bot: Hey there!
+2023-12-14 02:59:47 User: hello
+2023-12-14 02:59:47 Bot: None
+2023-12-14 02:59:48 User: hello
+2023-12-14 02:59:48 Bot: None
+2023-12-14 03:00:09 User: hi
+2023-12-14 03:00:09 Bot: Hello
+2023-12-14 03:00:10 User: hi
+2023-12-14 03:00:10 Bot: Hey there!
+2023-12-14 03:00:10 User: hi
+2023-12-14 03:00:10 Bot: Hey there!
+2023-12-14 03:00:11 User: hi
+2023-12-14 03:00:11 Bot: Hello
+2023-12-14 03:00:11 User: hi
+2023-12-14 03:00:11 Bot: Hey there!
+2023-12-14 03:00:11 User: hi
+2023-12-14 03:00:11 Bot: Hello
+2023-12-14 03:00:12 User: hi
+2023-12-14 03:00:12 Bot: Hello
+2023-12-14 03:00:12 User: hi
+2023-12-14 03:00:12 Bot: Hey there!
+2023-12-14 03:00:13 User: hi
+2023-12-14 03:00:13 Bot: Hello
+2023-12-14 03:00:14 User: hello
+2023-12-14 03:00:14 Bot: None
+2023-12-14 03:02:37 User: hey lucy
+2023-12-14 03:02:37 Bot: None
+2023-12-14 03:02:38 User: hi
+2023-12-14 03:02:38 Bot: Hello
+2023-12-14 03:03:31 User: Hi Lucy
+2023-12-14 03:03:31 Lucy: Hello
+2023-12-14 03:03:35 User: Hi Lcu
+2023-12-14 03:03:35 Lucy: Hey there!
+2023-12-14 03:03:37 User: hi
+2023-12-14 03:03:37 Lucy: Hello
+2023-12-14 03:03:39 User: bye
+2023-12-14 03:03:39 Lucy: None
+2023-12-14 03:11:20 User: hi
+2023-12-14 03:11:20 Lucy: Greetings!
+2023-12-14 03:11:20 User: hi
+2023-12-14 03:11:20 Lucy: Well, hello, my friend!
+2023-12-14 03:11:21 User: hi
+2023-12-14 03:11:21 Lucy: Hiya!
+2023-12-14 03:11:22 User: hi
+2023-12-14 03:11:22 Lucy: What’s up?
+2023-12-14 03:11:22 User: hi
+2023-12-14 03:11:22 Lucy: What’s up?
+2023-12-14 03:11:23 User: hi
+2023-12-14 03:11:23 Lucy: Hey, how’s everything in your world?
+2023-12-14 03:11:23 User: hi
+2023-12-14 03:11:23 Lucy: Hi, nice to see you!
+2023-12-14 03:11:24 User: hi
+2023-12-14 03:11:24 Lucy: Well
+2023-12-14 03:11:25 User: hi
+2023-12-14 03:11:25 Lucy: Hi, how’s your week going so far?
+2023-12-14 03:11:25 User: hi
+2023-12-14 03:11:25 Lucy: Hey, what’s the haps?
+2023-12-14 03:11:26 User: hi
+2023-12-14 03:11:26 Lucy: Hi, hope you’re having a great day!
+2023-12-14 03:11:26 User: hi
+2023-12-14 03:11:26 Lucy: Hiya!
+2023-12-14 03:11:27 User: hi
+2023-12-14 03:11:27 Lucy: Hey, how’s the weather treating you?
+2023-12-14 03:11:27 User: hi
+2023-12-14 03:11:27 Lucy: Hi, what’s new and exciting?
+2023-12-14 03:11:28 User: hi
+2023-12-14 03:11:28 Lucy: What’s up?
+2023-12-14 03:11:28 User: hi
+2023-12-14 03:11:28 Lucy: Hi, what’s the plan for today?
+2023-12-14 03:11:29 User: hi
+2023-12-14 03:11:29 Lucy: Greetings!
+2023-12-14 03:11:29 User: hi
+2023-12-14 03:11:29 Lucy: Hi, it’s good to hear from you!
+2023-12-14 03:11:30 User: hi
+2023-12-14 03:11:30 Lucy: Hey, how’s life on your end?
+2023-12-14 03:11:30 User: hi
+2023-12-14 03:11:30 Lucy: Hey, fancy meeting you here!
+2023-12-14 03:11:31 User: hi
+2023-12-14 03:11:31 Lucy: Well, hello, my friend!
+2023-12-14 03:11:31 User: hi
+2023-12-14 03:11:31 Lucy: Hey, how’s the day treating you?
+2023-12-14 03:11:32 User: hi
+2023-12-14 03:11:32 Lucy: Hey, how’s the day treating you?
+2023-12-14 03:11:32 User: hi
+2023-12-14 03:11:32 Lucy: Hey there!
+2023-12-14 03:11:33 User: hi
+2023-12-14 03:11:33 Lucy: Hi, hope you’re having a great day!
+2023-12-14 03:11:34 User: hi
+2023-12-14 03:11:34 Lucy: Hi, how’s your day shaping up?
+2023-12-14 03:11:34 User: hi
+2023-12-14 03:11:34 Lucy: Hi, how’s your day shaping up?
+2023-12-14 03:11:35 User: hi
+2023-12-14 03:11:35 Lucy: Hey there!
+2023-12-14 03:11:35 User: hi
+2023-12-14 03:11:35 Lucy: Hey, how’s life on your end?
+2023-12-14 03:11:36 User: hi
+2023-12-14 03:11:36 Lucy: Hey, how’s the weather treating you?
+2023-12-14 03:14:12 User: hi
+2023-12-14 03:14:12 Lucy: Hi, nice to see you!
+2023-12-14 03:14:13 User: hi
+2023-12-14 03:14:13 Lucy: Hey, what’s the good word?
+2023-12-14 03:14:37 User: hi
+2023-12-14 03:14:37 Lucy: None
+2023-12-14 03:14:39 User: Hi
+2023-12-14 03:14:39 Lucy: None
+2023-12-14 03:14:43 User: Hi hey hello
+2023-12-14 03:14:43 Lucy: None
+2023-12-14 03:14:48 User: Hi, Hey, Hello
+2023-12-14 03:14:48 Lucy: Hi, nice to see you!
+2023-12-14 03:14:50 User: hi
+2023-12-14 03:14:50 Lucy: None
+2023-12-14 03:14:51 User: hello
+2023-12-14 03:14:51 Lucy: None
+2023-12-14 03:21:50 User: hi
+2023-12-14 03:21:50 Lucy: Well, well, well, look who it is!
+2023-12-14 03:21:51 User: hi
+2023-12-14 03:21:51 Lucy: Yo!
+2023-12-14 03:21:52 User: hi
+2023-12-14 03:21:52 Lucy: Hi, how’s life treating you?
+2023-12-14 03:21:52 User: hi
+2023-12-14 03:21:52 Lucy: Hey there!
+2023-12-14 03:21:53 User: hi
+2023-12-14 03:21:53 Lucy: Hey there!
+2023-12-14 03:21:53 User: hi
+2023-12-14 03:21:53 Lucy: Hey there!
+2023-12-14 03:21:53 User: hi
+2023-12-14 03:21:53 Lucy: Hey, long time no see!
+2023-12-14 03:21:54 User: hi
+2023-12-14 03:21:54 Lucy: Hey there!
+2023-12-14 03:21:54 User: hi
+2023-12-14 03:21:54 Lucy: Hi, what’s new and exciting?
+2023-12-14 03:21:55 User: hi
+2023-12-14 03:21:55 Lucy: Howdy!
+2023-12-14 03:21:55 User: h
+2023-12-14 03:21:55 Lucy: None
+2023-12-14 03:21:56 User: ihi
+2023-12-14 03:21:56 Lucy: None
+2023-12-14 03:21:56 User: hi
+2023-12-14 03:21:56 Lucy: Hey, long time no see!
+2023-12-14 03:21:57 User: hi
+2023-12-14 03:21:57 Lucy: Howdy!
+2023-12-14 03:21:57 User: h
+2023-12-14 03:21:57 Lucy: None
+2023-12-14 03:21:58 User: ih
+2023-12-14 03:21:58 Lucy: None
+2023-12-14 03:21:59 User: i
+2023-12-14 03:21:59 Lucy: None
+2023-12-14 03:21:59 User: hi
+2023-12-14 03:21:59 Lucy: Hey, what’s the haps?
+2023-12-14 03:26:16 User: hi
+2023-12-14 03:26:16 Lucy: Hey there!
+2023-12-14 03:26:16 User: hi
+2023-12-14 03:26:16 Lucy: Hey there!
+2023-12-14 03:26:19 User: hi
+2023-12-14 03:26:19 Lucy: Hello
