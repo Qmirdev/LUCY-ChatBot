@@ -3,7 +3,7 @@ pairs = [
     ["who r u|who are you?|who is you|who am i talking to|describe yourself", ["I'm Lucy, a chatbot."]],
     ["who is Qmir|who are you?|who is you", ["I'm Lucy, a chatbot."]],
     ["who made you|who coded you?|who developed you|who's your creator| who's your god", ["Qmirdev is my creator, check out his website, https://saffaridev.ir/"]],
-    ["what your name|what's your name|what is your name|what can i call you", ["My name is Lucy, but you can call me Love 😌"]],
+    ["what your name|what's your name|what is your name|what can i call you", ["My name is Lucy, but you can call me Love 😘"]],
     ["what's your eye color|what color is your eye|what is the color of your eye", ["it's dark brown."]],
 
     ["hi|hii|hiii|hello|helloo|hellooo|hey|heyy|hiya|hiyya|heyya|heya|yo|yoo|what up|what's up|wsp", ["Hello", "Hey there!", "Hey there!", "What’s up?", "Howdy!", "Well", "hello!", "Greetings!", "Hiya!", "Hey, how’s it going?", "Yo!", "Hi, nice to see you!", "Hey, long time no see!", "Hi, how have you been?", "Well, well, well, look who it is!", "Hi, what’s the latest?", "Hey, what’s the haps?", "Hi, how’s life treating you?", "Well, hello stranger!", "Hey, fancy meeting you here!", "Hi, how’s your day shaping up?", "Hey, how’s everything in your world?", "Hi, it’s good to hear from you!", "Well, hi there, sunshine!", "Hey, what’s the good word?", "Hi, how’s your week going so far?", "Hey, how’s the weather treating you?", "Hi, what’s new and exciting?", "Well, hello, my friend!", "Hey, how’s the day treating you?", "Hi, what’s the plan for today?", "Hey, how’s life on your end?", "Hi, hope you’re having a great day!"]],
