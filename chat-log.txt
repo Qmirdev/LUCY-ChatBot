@@ -230,3 +230,65 @@
 2023-12-14 17:01:04 Lucy: None
 2023-12-14 17:01:05 User: lol
 2023-12-14 17:01:05 Lucy: None
+2023-12-14 17:04:15 User: hi
+2023-12-14 17:04:15 Lucy: Hiya!
+2023-12-14 17:04:16 User: yo
+2023-12-14 17:04:16 Lucy: None
+2023-12-14 17:04:18 User: yo!
+2023-12-14 17:04:18 Lucy: Hi, how’s your week going so far?
+2023-12-14 17:04:19 User: yo
+2023-12-14 17:04:19 Lucy: None
+2023-12-14 17:04:21 User: yoo
+2023-12-14 17:04:21 Lucy: Hey there!
+2023-12-14 17:04:23 User: yoo!
+2023-12-14 17:04:23 Lucy: Hi, how’s your week going so far?
+2023-12-14 17:04:27 User: yo!!
+2023-12-14 17:04:27 Lucy: Well, hello, my friend!
+2023-12-14 17:04:30 User: yo!!!!!
+2023-12-14 17:04:30 Lucy: Greetings!
+2023-12-14 17:04:31 User: hey
+2023-12-14 17:04:31 Lucy: Hey, what’s the haps?
+2023-12-14 17:04:32 User: hi
+2023-12-14 17:04:32 Lucy: Hey, how’s it going?
+2023-12-14 17:04:33 User: hell
+2023-12-14 17:04:33 Lucy: None
+2023-12-14 17:04:34 User: hello
+2023-12-14 17:04:34 Lucy: Well, hello stranger!
+2023-12-14 17:08:06 User: Hi
+2023-12-14 17:08:06 Lucy: Hey there!
+2023-12-14 17:08:08 User: Yo
+2023-12-14 17:08:08 Lucy: None
+2023-12-14 17:08:09 User: YO
+2023-12-14 17:08:09 Lucy: None
+2023-12-14 17:08:11 User: YO!
+2023-12-14 17:08:11 Lucy: Hey there!
+2023-12-14 17:08:32 User: yo!
+2023-12-14 17:08:32 Lucy: Hi, it’s good to hear from you!
+2023-12-14 17:08:34 User: yo!!
+2023-12-14 17:08:34 Lucy: Hey, what’s the good word?
+2023-12-14 17:08:36 User: yo jaipodwadpjo
+2023-12-14 17:08:36 Lucy: Hi, how’s your week going so far?
+2023-12-14 17:34:26 User: what's your name
+2023-12-14 17:34:26 Lucy: My name is Lucy, but you can call me Love :) (Chatbot Rizz)
+2023-12-14 17:34:29 User: :)
+2023-12-14 17:34:29 Lucy: None
+2023-12-14 17:34:31 User: hi
+2023-12-14 17:34:31 Lucy: Greetings!
+2023-12-14 17:34:33 User: hello
+2023-12-14 17:34:33 Lucy: What’s up?
+2023-12-14 17:34:35 User: im good
+2023-12-14 17:34:35 Lucy: None
+2023-12-14 17:34:38 User: i'm good
+2023-12-14 17:34:38 Lucy: None
+2023-12-14 17:34:41 User: im doing good
+2023-12-14 17:34:41 Lucy: None
+2023-12-14 17:34:43 User: im great
+2023-12-14 17:34:43 Lucy: None
+2023-12-14 17:34:46 User: im perfect
+2023-12-14 17:34:46 Lucy: None
+2023-12-14 17:34:50 User: im alright
+2023-12-14 17:34:50 Lucy: None
+2023-12-14 17:34:52 User: all good 
+2023-12-14 17:34:52 Lucy: Alright. Always reach out to me when you need something
+2023-12-14 17:45:25 User: what's your name
+2023-12-14 17:45:25 Lucy: My name is Lucy, but you can call me Love 😌
