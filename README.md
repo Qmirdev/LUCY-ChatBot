@@ -1,4 +1,5 @@
 # L U C Y
+<img src="https://github.com/Qmirdev/LUCY-ChatBot/blob/main/doc/1.png">
 This is a simple chatbot program written in Python. It uses the NLTK library for natural language processing and has a basic conversational engine based on predefined response pairs.
 
 ## Features
